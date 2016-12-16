@@ -12,7 +12,7 @@ While you don't necessarily need the Arduino IDE (checkout
 https://github.com/scottdarch/Arturo) to commincate with the
 microcontrollers, it is perhaps the easiest approach. However, you will
 need supporting files for the microcontrollers
-(https:/github.com/damellis/attiny). 
+(https://github.com/damellis/attiny). 
 
 ## Required Hardware
 
