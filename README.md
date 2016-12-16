@@ -16,9 +16,10 @@ need supporting files for the microcontrollers
 
 ## Required Hardware
 
-It is possible to program ATtiny microcontrollers using an arduino (simple
-google search). However, I prefer to use the Sparkfun AVR ATtiny
-programmer, which plugs directly into your computer's USB port
+It is possible to program ATtiny microcontrollers using an arduino 
+(http://www.instructables.com/id/Program-an-ATtiny-with-Arduino/). 
+However, I prefer to use the Sparkfun AVR ATtiny programmer, which 
+plugs directly into your computer's USB port
 (https://www.sparkfun.com/products/11801). Other than that, all that is
 needed is two LEDs, two 220 ohm resistors, and a 10k potentiometer. 
 
