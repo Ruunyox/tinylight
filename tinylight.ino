@@ -11,7 +11,7 @@ void setup()
 void loop()
 {
   f=analogRead(A1);
-  f=map(f,0,1023,50,100000);
+  f=map(f,0,1023,50,1000);
   digitalWrite(0, HIGH);
   delay(f);
   digitalWrite(0, LOW);
